@@ -1,11 +1,11 @@
 {
-    "name": "skeleton_project",
-    "short_name": "skeleton_project",
+    "name": "flutter_skeleton_project",
+    "short_name": "flutter_skeleton_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Flutter skeleton project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
